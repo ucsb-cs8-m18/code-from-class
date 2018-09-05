@@ -21,6 +21,7 @@ def update_global_var():
     # and a local var of that same name will NOT
     # get created
     global_var = 6
+    x = 42
 
 f(8)
 
